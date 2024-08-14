@@ -14,9 +14,7 @@
 
 <br>
 
-- I recenty graduated from Florida Institute of Technology with a Masters Degree in Computer Science.
-- I have over 2 years of professional Experience as a Software Engineer as a FullStack Developer.
-- Currently, I am working as a Research Assistant in BioMedical Lab @ Florida Tech
+- As a FullStack Developer, I seamlessly bridge front-end and back-end, delivering innovative solutions that enhance user experience and efficiency.
 
 <br><br>
 
