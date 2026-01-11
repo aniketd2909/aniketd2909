@@ -19,5 +19,5 @@
 <br><br>
 
 📫 **Contact me via**:
-- Email (dhanawadeaniket72@gmail.com)
+- Email (ani.dhanawade@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/dhanawadeaniket/)
